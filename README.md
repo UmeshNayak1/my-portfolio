@@ -104,7 +104,7 @@ npm run deploy
 
 - **LinkedIn:** [linkedin.com/in/umeshnayak](https://www.linkedin.com/in/umeshnayak)  
 - **GitHub:** [github.com/UmeshNayak1](https://github.com/UmeshNayak1)  
-- **Email:** `umesh@example.com`  
+- **Email:** `umeshlnayak@gmail.com`  
 
 Or use the contact form on the portfolio website.
 
