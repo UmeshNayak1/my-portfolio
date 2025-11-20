@@ -67,7 +67,7 @@ export const Hero = () => {
 
   const socialLinks = [
     { icon: Github, href: "https://github.com/UmeshNayak1", label: "GitHub" },
-    { icon: Linkedin, href: "https://linkedin.com/in/UmeshNayak", label: "LinkedIn" },
+    { icon: Linkedin, href: "https://linkedin.com/in/umeshlnayak/", label: "LinkedIn" },
     { icon: Instagram, href: "https://instagram.com/umesh_nayak_1", label: "Instagram" },
     { icon: Twitter, href: "https://x.com/umeshlnayak9591", label: "Twitter" },
   ];
