@@ -24,9 +24,25 @@ export const Experience = () => {
 
   const experiences = [
     {
+      title: "Full Stack Java Developer Intern",
+      company: "Fortune Cloude Technologies Pvt Ltd",
+      period: "Dec 2025 - Present",
+      description: "Currently advancing full stack development skills through the EDGE – Full Stack Java Program at Fortune Cloud Technologies. Gaining hands-on experience in building scalable enterprise applications using Java technologies, designing RESTful APIs, integrating databases, and developing responsive frontend modules while following industry-standard software engineering practices.",
+
+      achievements: [
+        "Applied Core and Advanced Java concepts including OOP principles, Collections, Exception Handling, and Multithreading",
+        "Developed backend applications using Spring Framework and Spring Boot",
+        "Built and consumed RESTful APIs integrated with MySQL databases",
+        "Implemented JPA and Hibernate for ORM-based database operations",
+        "Designed responsive frontend modules using HTML, CSS, and JavaScript",
+        "Worked on real-time full-stack projects using Git and Maven",
+        "Improved debugging, version control, and collaborative development practices"
+      ],
+    },
+    {
       title: "Java Fullstack Developer Intern",
       company: "Government Tool Room & Training Centre",
-      period: "Feb 2025 - Present",
+      period: "Feb 2025 - Nov 2025",
       description: "Developed dynamic and scalable web applications using the full stack, handling both frontend and backend development. Collaborated with cross-functional teams to build responsive UI, implement RESTful APIs, and optimize application performance in an agile environment.",
       achievements: [
         "Built responsive UI with HTML, CSS, and React JS",
